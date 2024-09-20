@@ -1,0 +1,106 @@
+{
+  "employees": [
+    {
+      "employeeno": "1",
+      "name": "Kamlesh",
+      "city": "Bhopal",
+      "salary": "25000000",
+      "id": "1"
+    },
+    {
+      "employeeno": "2",
+      "name": "Sani kumar",
+      "city": "UP",
+      "salary": "50000000",
+      "id": "2"
+    },
+    {
+      "employeeno": "4",
+      "name": "Nitin",
+      "city": "Bhopal",
+      "salary": "1000000",
+      "id": "4"
+    },
+    {
+      "employeeno": "0111",
+      "name": "Kajal",
+      "city": "Bhopal",
+      "salary": "35000000",
+      "id": "0abd"
+    }
+  ],
+  "registration": [
+    {
+      "id": "f886",
+      "username": "Kajal",
+      "mobile": "1234567890",
+      "email": "kajal@gmail.com",
+      "password": "Kajal@123",
+      "cpassword": "Kajal@123"
+    },
+    {
+      "id": "b496",
+      "username": "Anurag",
+      "mobile": "1234567890",
+      "email": "anurag@gmail.com",
+      "password": "Anurag@123",
+      "cpassword": "Anurag@123"
+    },
+    {
+      "id": "241f",
+      "username": "Ankita Bobde",
+      "mobile": "0123456789",
+      "email": "ankita@gmail.com",
+      "password": "Ankita@123",
+      "cpassword": "Ankita@123"
+    },
+    {
+      "id": "655d",
+      "username": "Ankita",
+      "mobile": "0123456789",
+      "email": "ankita@gmail.com",
+      "password": "Ankita@123",
+      "cpassword": "Ankita@123"
+    },
+    {
+      "id": "8cf1",
+      "username": "Annu",
+      "mobile": "0123456789",
+      "email": "annu@gmail.com",
+      "password": "Annu@123",
+      "cpassword": "Annu@123"
+    },
+    {
+      "id": "b5b4",
+      "username": "Sapna",
+      "mobile": "7894561230",
+      "email": "sapna@gmail.com",
+      "password": "Sapna@123",
+      "cpassword": "Sapna@123"
+    },
+    {
+      "id": "a80c",
+      "username": "Sonam",
+      "mobile": "0123456789",
+      "email": "sonam@gmail.com",
+      "password": "Sona@123",
+      "cpassword": "Sona@123"
+    },
+    {
+      "id": "63ee",
+      "username": "Poonam",
+      "mobile": "7894561230",
+      "email": "poonam@gmail.com",
+      "password": "Poonam@123",
+      "cpassword": "Poonam@123"
+    },
+    {
+      "id": "156e",
+      "username": "Sanee",
+      "mobile": "7894561230",
+      "email": "sanee@gmail.com",
+      "password": "San@123",
+      "cpassword": "San@123"
+    }
+  ]
+}

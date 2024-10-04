@@ -58,8 +58,7 @@ async function dataShow() {
       <th>Employee</th>
       <th>Name</th>
       <th>City</th>
-      <th>Salary<th>
-      <th>Actions</th>
+      <th>Salary</th><th>Actions</th>
       </tr>
   
       `;

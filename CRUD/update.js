@@ -4,7 +4,8 @@ function saveRow(id) {
   let mycity = document.getElementById(`city-${id}`).value;
   let mysalary = document.getElementById(`salary-${id}`).value;
 
-  let url = `http://localhost:3000/employees/${id}`;
+  // let url = `http://localhost:3000/employees/${id}`;
+  let url = `https://json-server-deployment-0n3l.onrender.com/employees/${id}`;
   fetch(url, {
     method: "PUT",
     body: JSON.stringify({
@@ -42,7 +43,8 @@ function editRow(id) {
 }
 
 function myrecordRemove(id) {
-  let url = `http://localhost:3000/employees/${id}`;
+  // let url = `http://localhost:3000/employees/${id}`;
+  let url = `https://json-server-deployment-0n3l.onrender.com/employees/${id}`;
   fetch(url, {
     method: "DELETE",
   });
@@ -62,7 +64,7 @@ async function dataShow() {
   
       `;
 
-  let url = "http://localhost:3000/employees";
+  let url = "https://json-server-deployment-0n3l.onrender.com/employees";
 
   let myobj = await fetch(url);
   console.log(myobj);

@@ -9,7 +9,8 @@ async function insert() {
         let mysalary=document.getElementById("salary").value;
 
         
-        let url="http://localhost:3000/employees";
+        // let url="http://localhost:3000/employees";
+        let url="https://json-server-deployment-0n3l.onrender.com/employees";
         let response=await fetch(url,{ 
             method:"POST",  
             //OBJECT TO STRING

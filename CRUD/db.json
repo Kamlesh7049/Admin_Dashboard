@@ -27,6 +27,13 @@
       "city": "Bhopal",
       "salary": "35000000",
       "id": "0abd"
+    },
+    {
+      "employeeno": "000000",
+      "name": "devendra",
+      "city": "bhopalhh",
+      "salary": "1000000",
+      "id": "3f11"
     }
   ],
   "registration": [

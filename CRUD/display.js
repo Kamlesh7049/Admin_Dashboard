@@ -11,7 +11,7 @@ async function dataShow() {
     
     `;
 //   let url = "http://localhost:3000/employees";
-  let myobj = await fetch("http://localhost:3000/employees");
+  let myobj = await fetch("https://json-server-deployment-0n3l.onrender.com/employees");
   console.log(myobj);
 
   let mydata = await myobj.json();
